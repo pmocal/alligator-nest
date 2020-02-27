@@ -1,5 +1,8 @@
 # alligator-nest
 
+## Description
+Project whipped up for Alligator.io blog post on nested routes in Vue.js.
+
 ## Project setup
 ```
 npm install
