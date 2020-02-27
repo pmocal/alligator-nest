@@ -1,7 +1,7 @@
 # alligator-nest
 
 ## Description
-Project whipped up for Alligator.io blog post on nested routes in Vue.js.
+Project whipped up for Alligator.io blog post (https://alligator.io/vuejs/nested-routes/) on nested routes in Vue.js.
 
 ## Project setup
 ```
