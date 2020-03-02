@@ -3,6 +3,9 @@
 ## Description
 Project whipped up for Alligator.io blog post on nested routes in Vue.js.
 
+## Screenshot
+![screenshot.png](screenshot.png)
+
 ## Project setup
 ```
 npm install
